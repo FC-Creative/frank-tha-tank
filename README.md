@@ -1,2 +1,2 @@
 # frank-tha-tank
-I'm a new developer and a expert designer.
+I'm a new developer an expert designer.
